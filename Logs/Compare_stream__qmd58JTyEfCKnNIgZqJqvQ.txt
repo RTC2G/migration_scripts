@@ -1,0 +1,3 @@
+Component '(_qnSZUJTyEfCKnNIgZqJqvQ) "NewJavaProject_Default_Component"'
+Component '(_CDMDEJTzEfCKnNIgZqJqvQ) "java"'
+Component '(_CCZ_8JTzEfCKnNIgZqJqvQ) "src"'

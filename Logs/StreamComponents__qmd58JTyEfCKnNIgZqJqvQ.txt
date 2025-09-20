@@ -1,0 +1,7 @@
+Stream: (_qmd58JTyEfCKnNIgZqJqvQ) "NewJavaProject_Stream"
+  Component: (_CDMDEJTzEfCKnNIgZqJqvQ) "java"
+      Baseline: (_CDQ7k5TzEfCKnNIgZqJqvQ) 1 "Initial Baseline"
+  Component: (_qnSZUJTyEfCKnNIgZqJqvQ) "NewJavaProject_Default_Component"
+      Baseline: (_qnvFQ5TyEfCKnNIgZqJqvQ) 1 "Initial Baseline"
+  Component: (_CCZ_8JTzEfCKnNIgZqJqvQ) "src"
+      Baseline: (_CCrsw5TzEfCKnNIgZqJqvQ) 1 "Initial Baseline"
